@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**code2fingers/code2fingers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer · Systems · Networking · IoT
 
-Here are some ideas to get you started:
+I enjoy turning complex systems into simple, reliable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ About me
+
+```text
+🧑‍💻 Senior Software Engineer
+🌐 Networking & distributed systems
+🐹 Go enthusiast
+🐍 Python for automation & tooling
+📡 OpenWrt & embedded networking
+🔌 IoT & connected devices
+⚙️ Infrastructure & automation
+```
+
+---
+
+## 🏗️ Engineering philosophy
+
+> **Make it work. Make it observable. Then make it fast.**
+
+I prefer simple, reliable infrastructure over unnecessary complexity.
+
+A few things I value:
+
+* 🧩 Simple architectures
+* 🔍 Deep observability
+* 🔒 Secure-by-default systems
+* ⚙️ Automation over repetitive work
+* 📈 Performance backed by measurements
+* 📚 Documentation that people actually use
+* 🛠️ Understanding the entire stack
+
+---
+
+<sub>⚙️ Building systems. Connecting things. Solving interesting problems.</sub>
